@@ -246,3 +246,4 @@ LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 
 ![Screenshot 2024-04-27 at 11 00 42](https://github.com/jw108/Final-test-for-the-specialization-block/assets/8548310/e31a5604-80a8-4d1d-8bae-3bdfde6ebb6d)
 ![Screenshot 2024-04-27 at 11 00 43](https://github.com/jw108/Final-test-for-the-specialization-block/assets/8548310/942d008e-3b51-4f81-b4e6-3e786976d25d)
+[Итоговое тестирование по освоению специализации Программист.pdf](https://github.com/jw108/Final-test-for-the-specialization-block/files/15254866/default.pdf)
